@@ -1,0 +1,15 @@
+.hanh-header{
+    background-color: black;
+}
+.custom-btn {
+    color: white; /* Đổi màu chữ thành màu đỏ */
+    border-color: white; /* Đổi màu viền thành màu xanh lam */
+    background-color: black; /* Đổi màu nền thành màu vàng */
+}
+.custom-btn:hover {
+    color: white; /* Màu chữ khi rê chuột vào */
+    border-color: #650a0d; /* Màu viền khi rê chuột vào */
+    background-color: #650a0d; /* Màu nền khi rê chuột vào */
+}
+
+
